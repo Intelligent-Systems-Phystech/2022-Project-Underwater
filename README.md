@@ -11,7 +11,7 @@
 </div>
 
 ## Аннотация
-Из-за ограниченности габаритов аккумуляторных батарей и требований по минимальным массам, на подводных аппаратах микрокласса крайне важно, чтобы движительный комплекс на магнитных муфтах имел максимальный КПД и оптимальные гидродинамические обводы. Существует проблема создания обладающего оптимальными электромеханическими характеристиками двигательно-движительного комплекса с системой автоматической обратной связи. Необходимо сконструировать автоматизированный измерительный стенд для получения семейства электромеханических характеристик и выбора из них оптимальных.
+The paper solves the problem of obtaining and analyzing the electromechanical characteristics of the propulsion unit of an underwater uninhabited vehicle of a microclass. The propulsor converts the mechanical energy of the rotation of the brushed low-current DC motor into the rotation of the propellers with the help of magnetic coupling halves providing coupling. The use of magnetic coupling halves introduces the problem of screw slippage when the engine control mode is changed. The construction and analysis of the current-voltage-turns surface diagram makes it possible to find out the areas of the optimal set of electromechanical characteristics for creating an automated feedback system for regulating control modes.
 
 ## Публикации по теме исследования
 1. 
