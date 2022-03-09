@@ -1,0 +1,94 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{leonov2015}
+\selectlanguageifdefined{english}
+\BibEmph{Леонов,~.~.} ДВИГАТЕЛЬНО-ДВИЖИТЕЛЬНАЯ
+  УСТАНОВКА ПОДВОДНОГО АППАРАТА~/ .~.~Леонов,
+  .~.~Зорин, .~.~Кринский. "---
+\newblock 2015.
+
+\bibitem{kostenko2019_1}
+\selectlanguageifdefined{english}
+ОСОБЕННОСТИ МОДЕЛИРОВАНИЯ
+  ПРОСТРАНСТВЕННОГО ДВИЖЕНИЯ
+  МНОГОФУНКЦИОНАЛЬНОГО АНПА С ИЗБЫТОЧНЫМ
+  ДВИЖИТЕЛЬНО-РУЛЕВЫМ КОМПЛЕКСОМ~/
+  .~Костенко, .~Медведев, .~Мокеева,
+  .~Толстоногов~// \BibEmph{Технические проблемы
+  освоения Мирового океана}. "---
+\newblock 2019. "---
+\newblock no.~8. "---
+\newblock Pp.~74--79.
+
+\bibitem{kostenko2019_2}
+\selectlanguageifdefined{english}
+РАЗРАБОТКА И ИССЛЕДОВАНИЕ МАТЕМАТИЧЕСКОЙ
+  МОДЕЛИ МАРШЕВОГО ДВИЖИТЕЛЯ НЕОБИТАЕМОГО
+  ПОДВОДНОГО АППАРАТА~/ .~Костенко,
+  .~Михайлов, .~Стороженко, .~Толстоногов~//
+  \BibEmph{Технические проблемы освоения
+  Мирового океана}. "---
+\newblock 2019. "---
+\newblock no.~8. "---
+\newblock Pp.~352--358.
+
+\bibitem{filaretov2019}
+\selectlanguageifdefined{english}
+МЕТОД СИНТЕЗА ДИАГНОСТИЧЕСКИХ
+  НАБЛЮДАТЕЛЕЙ ДЛЯ ДВИЖИТЕЛЕЙ АВТОНОМНЫХ
+  НЕОБИТАЕМЫХ ПОДВОДНЫХ АППАРАТОВ~/
+  .~Филаретов, .~Зуев, .~Жирабок, .~Костенко~//
+  \BibEmph{Технические проблемы освоения
+  Мирового океана}. "---
+\newblock 2019. "---
+\newblock no.~8. "---
+\newblock Pp.~373--376.
+
+\bibitem{antonenko2018}
+\selectlanguageifdefined{english}
+\BibEmph{Антоненко,~.} ИССЛЕДОВАНИЕ ДИНАМИКИ
+  ДВИЖИТЕЛЕЙ ПОДВОДНОГО АППАРАТА~/
+  .~Антоненко, .~Макарычев~//
+  \BibEmph{Робототехника и техническая
+  кибернетика}. "---
+\newblock 2018. "---
+\newblock no.~1. "---
+\newblock Pp.~61--68.
+
+\bibitem{siek2019}
+\selectlanguageifdefined{english}
+\BibEmph{Сиек,~.} Многомодельное оценивание
+  вектора состояния автономного
+  необитаемого подводного аппарата~/ .~Сиек,
+  .~Борисов~// \BibEmph{Технические проблемы
+  освоения Мирового океана}. "---
+\newblock 2019. "---
+\newblock no.~8. "---
+\newblock Pp.~334--339.
+
+\bibitem{lukoyanov2019}
+\selectlanguageifdefined{english}
+\BibEmph{Лукоянов,~.} ПОИСК ОТКАЗОВ В СИСТЕМАХ
+  ПОДВОДНОГО АППАРАТА С ИСПОЛЬЗОВАНИЕМ
+  ДИНАМИЧЕСКИХ МОДЕЛЕЙ~/ .~Лукоянов~//
+  \BibEmph{Технические проблемы освоения
+  Мирового океана}. "---
+\newblock 2019. "---
+\newblock no.~8. "---
+\newblock Pp.~311--316.
+
+\bibitem{lewis1988}
+\selectlanguageifdefined{english}
+\BibEmph{Lewis,~E.~V.} Principles of naval architecture second revision~/
+  E.~V.~Lewis~// \BibEmph{Jersey: Sname}. "---
+\newblock 1988. "---
+\newblock Vol.~2.
+
+\end{thebibliography}

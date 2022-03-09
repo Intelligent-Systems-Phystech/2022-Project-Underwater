@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: LovchikovSukhova2022Underwater.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: gost780s.bst
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+Database file #1: LovchikovSukhova2022Underwater.bib
+Warning--empty journal in leonov2015
+You've used 8 entries,
+            2934 wiz_defined-function locations,
+            713 strings with 8032 characters,
+and the built_in function-call counts, 3782 in all, are:
+= -- 460
+> -- 107
+< -- 23
++ -- 38
+- -- 30
+* -- 246
+:= -- 531
+add.period$ -- 34
+call.type$ -- 8
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 165
+empty$ -- 311
+format.name$ -- 35
+if$ -- 908
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 0
+newline$ -- 63
+num.names$ -- 29
+pop$ -- 59
+preamble$ -- 1
+purify$ -- 28
+quote$ -- 21
+skip$ -- 131
+stack$ -- 0
+substring$ -- 228
+swap$ -- 69
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 31
+width$ -- 9
+write$ -- 156
+(There was 1 warning)
